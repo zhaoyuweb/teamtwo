@@ -1,0 +1,65 @@
+.d{
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 2;
+    
+
+
+}
+.d input{
+    display: block;
+    width: 280px;
+    height: 28px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    border:none;
+    background-color:rgb(243, 242, 242);
+    
+    
+}
+
+.d i{
+width: 27px;
+height: 27px;
+display: block;
+float: left;
+margin-top: 15px;
+margin-left: 10px;
+}
+.se{
+    float: left;
+    width: 334px;
+    height: 35px;
+    /* margin-left: 100px; */
+    background-color:rgb(243, 242, 242);
+    border-radius:15px;
+    margin-top: 10px;
+    overflow: hidden;
+    
+}
+.d .i_2{
+    margin-top: 10px
+}
+.im{
+    display: block;
+    width: 27px;
+    height: 27px;
+    float: left;
+    margin-top: 15px;
+}
+.im1{
+    display: block;
+    width: 27px;
+    height: 27px;
+    float: left;
+    margin-top: 5px;
+}
+
+

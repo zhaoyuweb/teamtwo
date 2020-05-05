@@ -1,0 +1,80 @@
+
+.top{
+    width: 100%-60px;
+    padding:0 30px;
+    height: 88px;
+    position: relative;
+    margin:0 auto;
+}
+.top>div{
+    line-height: 88px;
+}
+.leftDiv{
+    height: 88px;
+    position: absolute;
+    left:30px;
+    top:0;
+}
+.leftDiv i{
+    font-size: 50px;
+}
+.rightDiv{
+    height: 88px;
+    position: absolute;
+    right:30px;
+    top:0;
+}
+.rightDiv input{
+    border:0;
+    outline: 0;
+    background:#fff;
+    line-height: 88px;
+    font-size: 32px;
+    height: 88px;
+}
+.searchDiv{
+    background-color: #F5F7F9;
+    border-radius: 8px;
+    width: 438px;
+    height: 70px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    padding:0 10px;
+}
+.searchDiv input{
+    background-color: #F5F7F9;
+    font-size: 28px;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    width: 100%-10px;
+    height: 100%;
+    border:0;
+    outline: none;
+}
+
+.hotSearch{
+    width: 100%-60px;
+    line-height: 40px;
+    font-size: 28px;
+    color:#999999;
+    margin:30px;
+}
+
+.list{
+    width: 100%-60px;
+    padding:0 30px;
+}
+.list a{
+    display: inline-block;
+    height: 64px;
+    font-size: 32px;
+    background:#F5F7F9;
+    color:#4A4945;
+    line-height: 64px;
+    padding:0 20px;
+    margin:0 20px 20px 0;
+}

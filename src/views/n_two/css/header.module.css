@@ -1,0 +1,303 @@
+.img{
+   
+        /* font-size: 0;
+        height: .586667rem;
+        float: left;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+        position: relative;
+        z-index: 1;
+        width: .36rem;
+    height: .36rem;
+    margin: .126667rem 0; */
+    width: 27px;
+    height: 27px;
+    margin: 9.5px 0
+    
+   
+       
+}
+.ziti{
+   margin-top: 0px;
+    font-size: .213333rem;
+    height:.586667rem;
+    float: left;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    font-size: 0;
+    height: 44px;
+    
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  
+   
+    
+    
+}
+.zitiOne{
+    font-size: 0;
+    height: 44px;
+    float: right;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.bigDiv{
+    background: #FFFFFF;
+    height: 44px;
+    z-index: 6;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0; 
+    padding: 0 18px;
+    margin: 0 auto;
+    max-width: 600px;
+    box-sizing: border-box;
+    display: block;
+  
+}
+.divOne{
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 65px;
+    line-height: 44px;
+    height: 44px;
+    font-size: 16px;
+    color: #999999;
+    overflow: hidden;
+    /* background-color: orange; */
+}
+.divTwo{
+    position: relative;
+    text-align: center;
+    padding: 0;
+    margin: 0 25px;
+    overflow: hidden;
+    zoom: 1;
+}
+.imgOne{
+    /* font-size: 0;
+    height: .586667rem;
+    float: right;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    width: .36rem;
+height: .36rem;
+margin: .126667rem 0; */
+width: 27px;
+    height: 27px;
+    margin: 9.5px 0
+}
+.bg{
+    background-color:orange ;
+}
+.xrdivOne{
+    /* position: relative; */
+    overflow: hidden;
+    zoom: 1;
+    /* height: 8000px; */
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    display: block;
+    /* background-color: red; */
+}
+.xrdivOneH1{
+    margin: 10px 15px;
+    overflow: hidden;
+}
+
+.xrdivOneH1img{
+   
+    /* background-color: orchid; */
+    /* background: none; */
+     width: 38px; height:38px;
+     float: left;
+    
+     border-radius: 50%;
+     overflow: hidden;
+     box-sizing: border-box;
+     border: 1px solid;
+     border-color: #E7E2E5;
+     
+}
+.span1{
+    font-size: 13px;
+    height: 20px;
+    line-height: 20px;
+    text-align: left;
+    color: #4A4945;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -otext-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+
+    margin: 0 auto;
+    padding: 0;
+    letter-spacing: 0.5px;
+    list-style-type: none;
+    overflow: hidden;
+    zoom: 1;
+}
+.spandiv1{
+    text-align: left;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    color: #999999;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -otext-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.divbaba{
+    float: left;
+}
+.span3{
+    margin: 10px 15px 11px 15px;
+    font-size: 14px;
+    color: #4A4945;
+    line-height: 20px;
+    max-height: 80px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    /* display: -moz-box;
+    display: -webkit-box; */
+    -webkit-line-clamp: 4;
+    -moz-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    box-orient: vertical;
+}
+.imgin{
+    width: 392px;
+    height: 200px;
+    margin: 0 10px;
+    display: flex;
+    justify-content:space-around
+}
+.aImg{
+    widows: 188px;
+    height: 188px;
+    /* background: black; */
+    display:left ;
+}
+.footer{
+    height: 30px;
+    box-sizing: border-box;
+    margin: 0 15px;
+    border-top: 1px solid;
+    border-top-color: #E7E2E5;
+    /* background-color: burlywood; */
+}
+.footera{
+    display: inline-block;
+    width: 33.333%;
+    text-align: center;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border-right: 1px solid;
+    border-right-color: #E7E2E5;
+    /* background-color: blue; */
+}
+.footerimg{
+    font-size: 0px;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    border: 0;
+    overflow: hidden;
+    letter-spacing: 0.5px;
+    list-style-type: none;
+    float: left;
+    margin-left: 45px;
+}
+.shuzi{
+    float: left;
+    margin-left: 10px;
+}
+.middle{
+ 
+    height: 2.28rem;
+    overflow-y: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin-top: 60px;
+    
+}
+.middleDiv{
+    height: 85.5px;
+    width: 150px;
+    margin-right: 2px;
+    background-color: white;
+    display: inline-block;
+    overflow: hidden;
+    padding-left: 3px;
+    position: relative;
+    text-align: center;
+}
+.middleImg{
+    width:  100%; 
+    height: 100%; 
+    overflow: hidden;
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+.middleBtn{
+   height: 39px;
+    overflow-y: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.middleBtnDiv{
+    background-color: white;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 21px;
+    position: relative;
+    margin-right: 8px;
+    border-radius: 4px;
+    padding: 7px 10px;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+ 
+}
+.middleBtnText{
+    width:  100%; 
+    height: 100%; 
+    overflow: hidden;
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: auto;
+  
+    
+}
+

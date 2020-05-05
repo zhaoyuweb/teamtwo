@@ -1,0 +1,30 @@
+
+.n1{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0px;
+    border-top:1px solid grey;
+    width: 100%;
+    /* overflow: hidden; */
+    z-index: 7;
+    background-color:white;
+    
+}
+.n1 a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+.n1 div{
+width: 120px;
+height: 49px;
+float: left;
+}
+.n1 div img{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin: 0 auto;
+    color: gray;
+}

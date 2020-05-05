@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #1976d2;
+}
+.quxiao{
+    line-height: 44px;
+    font-size: 16px;
+    margin-left: 15px;
+    color: #1976d2;
+    float: left;
+}
+
+.denglu{
+    line-height: 44px;
+    font-size: 18px;
+    color: #4A4945;
+    margin-left: 140px;
+    float: left;
+}
+
+.zhangh{
+    width: 280px;
+    height: 100%;
+   
+    float: left;
+    margin-left: 15px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.imgs{
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.zhangspan{
+    font-size: 16px;
+    line-height: 66px;
+    color: #1976d2;
+}
+
+.zhinput{
+    height: 25px;
+    font-size: 17px;
+    outline: none;
+    margin-left: 20px;
+    border: 0;
+}
+
+.minput{
+    height: 25px;
+    font-size: 17px;
+    outline: none;
+    margin-left: 20px;
+    border: 0;
+    margin-top: 20px;
+}
+
+.denglu1{
+    width: 250px;
+    height: 40px;
+    background: #0096FB;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 30px;
+    border-radius: 20px;
+    margin-left: 75px;
+    outline-style: none;
+    border: 0;
+} 
+
+.imgv{
+    width: 70px;
+    height: 70px;
+    margin-left: 120px;
+}
+
+.imgq{
+    width: 70px;
+    height: 70px;
+    margin-left: 30px;
+}

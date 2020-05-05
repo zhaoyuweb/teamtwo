@@ -1,0 +1,55 @@
+
+.d h2{
+    margin-left: 10px;
+    font-size: 24px;
+}
+.dm{
+    
+    height: 370px;
+    width: 100%;
+    overflow-y: hidden;
+ overflow-x: auto;
+ white-space: nowrap;
+}
+.dk111{
+    height:349px ;
+    width: 207px;
+    margin-right: 2px;
+    background-color: white;
+    display: inline-block;
+    overflow: hidden;
+    padding-left: 10px;
+    position: relative;
+   
+    
+}
+.dk111 img{
+    width: 207px;
+    height: 291px;
+    border-radius: 10px;
+}
+.dx{
+    position: absolute;
+    left: 0;
+    bottom: 69.336px;
+    font-size: 14.256px;
+    margin: 0 30px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    overflow: hidden;
+    color: #4A4945;
+    background-color: #fff;
+}
+.dk111 h3{
+    color: #4A4945;
+    font-weight: bold;
+    font-size: 19.44px;
+    line-height: 26.244px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    white-space: normal;
+}

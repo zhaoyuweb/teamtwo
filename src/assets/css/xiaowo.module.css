@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.NavLinks{
+    text-decoration: none;
+    color:#999999;
+}
+li{
+    list-style: none;
+}
+
+.imgh{
+    width:27px;
+    height:27px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+
+.imgz{
+    width:78px;
+    height:78px;
+    float: left;
+    margin-left: 10px;
+}
+
+.user{
+    width: 275px;
+    
+    height: 100%;
+    float: left;
+    margin-left: 15px;
+}
+
+.username{
+    font-size: 20px;
+    color: #4A4945;
+    float: left;
+}
+
+.imgz1{
+    width:25px;
+    height:25px;
+    float: left;
+    margin-left: 15px;
+}
+
+.userid{
+    font-size: 12px;
+    color:#999999;
+    float: left;
+    
+}
+
+.imgz2{
+    width:23px;
+    height:23px;
+    float: right;
+    
+}
+
+.jingyan{
+   
+    width: 150px;
+    height: 20px;
+    border-bottom:2px solid lavenderblush;
+}
+
+.xingwei{
+    width: 326px;
+    height: 41px;
+    margin-top: 20px;
+    margin-left: 37px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999999;
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    color: #999999;
+    line-height: 20px;
+    text-align: center;
+}
+
+.navs{
+    display: flex;
+    height: 74px;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 12px;
+    text-align: center;
+    border-bottom: 10px solid whitesmoke;
+
+}
+
+.imgs{
+    width: 40px;
+    height: 40px;
+}
+
+.gongnengs{
+    font-size: 14px;
+    overflow: hidden;
+    width: 100%;
+    height: 54px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.gongnengs1{
+    font-size: 14px;
+    overflow: hidden;
+    width: 100%;
+    height: 54px;
+}
+.image{
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-right: 10px;
+}
+
+.gongneng{
+    width: 100%;
+    height: 24px;
+    font-weight: 14px;
+    color: #4A4945;
+    margin-top: 15px;
+}
+
+.imgh1{
+    width:23px;
+    height:23px;
+    float: right;
+    margin-right: 20px;
+    
+}
+
+.seth{
+    width: 100%;
+    height: 44px;
+    border-bottom: 10px solid whitesmoke;
+    overflow: hidden;
+}
+
+.setimg{
+    width: 27px;
+    height: 27px;
+    margin-left: 20px;
+    margin-top: 8px;
+    float: left;
+}
+
+.set{
+    margin-left: 175px;
+    line-height: 44px;
+    font-size: 20px;
+    color: #4A4945;
+}
+
+.zhineng{
+    font-size: 16px;
+    width: 370px;
+    height: 33px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-bottom: 1px solid gainsboro;
+    color: #4A4945;
+}
+
+.zhineng1{
+    font-size: 16px;
+    width: 370px;
+    height: 33px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #4A4945;
+}
+
+
+.btn{
+    width: 370px;
+    height: 40px;
+    background: #E98B71;
+    border-radius: 5px;
+    border-style: none;
+    outline: none;
+    margin-top: 130px;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 15px;
+}
+
+.tou{
+    font-size: 14px;
+    width: 370px;
+    height: 100%;
+    margin-left: 15px;
+    /* border-bottom: 1px solid gainsboro; */
+    color: #4A4945;
+}
+
+.tps{
+    font-size: 14px;
+    width: 370px;
+    height: 100%;
+    margin-left: 15px;
+    border-bottom: 1px solid gainsboro;
+    color: #4A4945;
+}
+
+.imgt{
+    width: 45px;
+    height: 45px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.tuxiang{
+    float: left;
+    margin-top: 20px;
+}
+.tuxiang1{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.xunzhang{
+    height: 380px; 
+    width: 100%; 
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.guize{
+    
+    float: right;
+    line-height: 44px;
+    font-size: 20px;
+    color: #4A4945;
+    margin-right: 20px;
+    
+}
+
+.active{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 800;
+    background: blueviolet;
+}
+
+.inp{
+    display: block;
+    width: 250px;
+    height: 28px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+    border:none;
+    background-color:rgb(243, 242, 242);
+}
+
+.danghang{
+    color: #999999;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.toubu{
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toubup{
+    height: 100%;
+    width: 100px;
+    text-align: center;
+    line-height: 44px;
+    color: #4A4945;
+    font-size: 16px;
+}
+
+
+
+
